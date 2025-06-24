@@ -10,3 +10,10 @@
 6. Encoded categorical data for applying algorithms. 
 
 Tools Used:  Pandas, Matplotlib, Seaborn
+
+Conclusions: 
+1. The maximum income of applicant is 72,529 and minimum is 0 with average income 4,805.
+2. We observe the minimum loan amount to be 28 and maximum loan amount to be 550.
+3. The minimum loam amount term is 6 while maximum loan amount term is 480.
+4. We observe variables to be uncorrelated. Weak correlation is observed between Applicant income and Loan Amount.
+5. We observe outliers in certain varibales.
